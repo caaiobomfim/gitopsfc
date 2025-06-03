@@ -1,1 +1,1 @@
-# gitopsfc project
+# gitopsfc
